@@ -1,0 +1,10 @@
+{
+  "skill": "brainsort",
+  "test_cases": [
+    {"input": "Turn my entire workflow into a skill. Publish @brainsort grok-bot-pages skill", "should_trigger": true},
+    {"input": "Make a Better Builds desk page", "should_trigger": true},
+    {"input": "brainsort the NEXUS cockpit", "should_trigger": true},
+    {"input": "What is the weather", "should_trigger": false},
+    {"input": "Write a poem", "should_trigger": false}
+  ]
+}

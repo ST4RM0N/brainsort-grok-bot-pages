@@ -1,0 +1,20 @@
+{
+  "skill": "brainsort",
+  "test_cases": [
+    {
+      "name": "turn_workflow_into_page",
+      "input": "Turn my entire Better Builds workflow into a skill and publish the grok-bot-pages version",
+      "assertions": ["Produces a copy-paste page brief", "References live NEXUS cockpit", "Includes harbor order and bookmark map", "Includes reverse-entropy healing queue"]
+    },
+    {
+      "name": "update_existing_desk",
+      "input": "Update the Better Builds desk page with latest live numbers",
+      "assertions": ["Supplies keep-current update phrase", "Reminds not to freeze timings", "Marks missing data instead of guessing"]
+    },
+    {
+      "name": "harbor_and_constraints",
+      "input": "What is the current harbor order and the Seen/Pause rules?",
+      "assertions": ["States harbor order with owners", "Notes Seen and Pause are device-only", "Notes Partner cannot record L3 and S5 stays Ghost"]
+    }
+  ]
+}
